@@ -1,7 +1,7 @@
 # Project Euler solutions
 
 ## What's [Project Euler](https://projecteuler.net/)?
-It's series of problems intended to be solved with programs. Many of them require a solid mathematical basis in addition to programming skills. Level of difficulty vary from easy ones which can be solved with Python's oneliner or even without programming to really tough ones. Each problem has shown difficulty level and you can choose one that suits you. After solving problem you gain access to other users' discussion where solutions are published. You will be surprised how much different ways people find to solve same problem.
+It's series of problems intended to be solved with programs. Many of them require a solid mathematical basis in addition to programming skills. Level of difficulty varies from easy ones which can be solved with Python's oneliner or even without programming to really tough ones. Each problem has shown difficulty level and you can choose one that suits you. After solving problem you gain access to other users' discussion where solutions are published. You will be surprised how much different ways people find to solve same problem.
 
 On this repository I present my solutions to Project Euler problems. All of them are written in Python.
 
