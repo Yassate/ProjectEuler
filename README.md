@@ -21,7 +21,7 @@ On this repository I present my solutions to Project Euler problems. All of them
 1. ["Large sum"](./Problems/Problem13.pdf) &rarr; [Solution](./Solutions/ProjectEuler_13.py)
 1. ["Longest Collatz sequence"](./Problems/Problem14.pdf) &rarr; [Solution](./Solutions/ProjectEuler_14.py)
 1. ["Lattice paths"](./Problems/Problem15.pdf) &rarr; [Solution](./Solutions/ProjectEuler_15.py)
-1. ["Power digit sum"](./Problems/Problem16.pdf) &rarr;
+1. ["Power digit sum"](./Problems/Problem16.pdf) &rarr; [Solution](./Solutions/ProjectEuler_16.py)
 1. ["Number letter counts"](./Problems/Problem17.pdf) &rarr; [Solution](./Solutions/ProjectEuler_17.py)
 1. ["Maximum path sum I"](./Problems/Problem18.pdf) &rarr; [Solution](./Solutions/ProjectEuler_18.py)
 1. ["Counting Sundays"](./Problems/Problem19.pdf) &rarr;
